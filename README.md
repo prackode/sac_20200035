@@ -1,1 +1,2 @@
-# sac_20200035.github.io
+# SAC_20200035
+Demo website for Student Activity Center(SAC), MNNIT.
